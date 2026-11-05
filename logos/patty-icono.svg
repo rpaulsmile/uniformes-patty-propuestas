@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="t">
+  <title id="t">Uniformes Patty — ícono</title>
+  <rect width="80" height="80" rx="18" fill="#16213A"/>
+  <g transform="translate(9.4 13.2) scale(.85)" fill="none" stroke="#FF5A6E" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 28 H12 L16 28 L19.5 15 L23.5 41 L27 22 L29 28 H34 C34 17 40 11 46 11 C50 11 52 14 52 17 C52 14 54 11 58 11 C64 11 70 17 70 26 C70 36 60 44 52 52 C44 44 34 36 34 26"/>
+  </g>
+</svg>

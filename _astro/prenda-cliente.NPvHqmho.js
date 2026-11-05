@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./catalogo.CuU0SK1o.js";function n(n,r,i){n.style.setProperty(`--prenda-color`,e(i)),n.dataset.color=i;let a=n.querySelector(`img`),o=t(r,i);a&&o?(a.src.endsWith(o)||(a.src=o),n.dataset.conFoto=`true`):n.dataset.conFoto=`false`}export{n as t};

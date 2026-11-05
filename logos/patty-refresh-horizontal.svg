@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 84" role="img" aria-labelledby="t">
+  <title id="t">Uniformes Patty — logo refresh horizontal</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&amp;family=Yellowtail&amp;display=swap');
+    .u{font-family:Archivo,Arial,sans-serif;font-weight:700;font-stretch:125%;font-size:12.5px;letter-spacing:4.2px;fill:#16213A}
+    .p{font-family:Yellowtail,'Brush Script MT',cursive;font-size:50px;fill:#16213A}
+  </style>
+  <!-- Ícono: el electrocardiograma entra y dibuja el corazón en un solo trazo -->
+  <g transform="translate(2 14)" fill="none" stroke="#D21F3C" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 28 H12 L16 28 L19.5 15 L23.5 41 L27 22 L29 28 H34 C34 17 40 11 46 11 C50 11 52 14 52 17 C52 14 54 11 58 11 C64 11 70 17 70 26 C70 36 60 44 52 52 C44 44 34 36 34 26"/>
+  </g>
+  <text class="u" x="88" y="27">UNIFORMES</text>
+  <text class="p" x="84" y="72">Patty</text>
+</svg>
